@@ -1,5 +1,3 @@
-@@ -1,4 +1,4 @@
-# :heart: **Hi, I'm Aashish jogi** *& a technocrat at heart*
 # :heart: **Hi, I'm Aashish jogi** *& I am a technocrat at heart*
 
 ## :secret: About Me :
