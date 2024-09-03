@@ -17,12 +17,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 <hr/>
 ## :coffee: GitHub Stats:
-![Aashishjogi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ashishjogi&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<br/>
+![Aashishjogi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=aashishjogi&show_icons=true&text_bold=true&theme=transparent&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashishjogi&show_icons=true&text_bold=true&theme=transparent&title_color=f5f5f5&text_color=f5f5f5&icon_color=2A79F7&border_radius=15&card_width=435&cache_seconds=86400)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankarma&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishjogi&show_icons=true&text_bold=true&theme=transparent&hide_border=false&title_color=2160C4&text_color=darkgrey&icon_color=2A79F7&border_color=999&border_radius=15&card_width=435&cache_seconds=86400)<hr/>
 Feel free to explore my repositories and connect with me on social media!
 <!--
-**Ashishjogi/Aashishjogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aashishjogi/Aashishjogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
